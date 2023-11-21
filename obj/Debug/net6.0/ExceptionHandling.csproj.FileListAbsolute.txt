@@ -1,0 +1,15 @@
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.csproj.AssemblyReference.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.AssemblyInfoInputs.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.AssemblyInfo.cs
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.deps.json
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.runtimeconfig.json
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/bin/Debug/net6.0/ExceptionHandling.pdb
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/refint/ExceptionHandling.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.pdb
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ExceptionHandling.genruntimeconfig.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ExceptionHandling-master/ExceptionHandling/obj/Debug/net6.0/ref/ExceptionHandling.dll
